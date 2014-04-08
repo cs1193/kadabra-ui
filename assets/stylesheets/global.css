@@ -1,0 +1,24 @@
+body {
+	background-color: rgba(32, 255, 191, 1.0);
+	color: rgba(255, 255, 255, 1.0);
+	font-family: 'SegoeUI';
+	font-weight: 100;
+}
+
+#logo {
+	font-family: 'TypeFaceSeven';
+	font-weight: normal;
+	font-size: 50px;
+	text-transform: uppercase;
+	color: rgba(255,255,255,1.0);	
+	padding: 10px;
+}
+
+#sublogo {
+	font-family: 'TypeFaceSeven';
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1.0);
+	text-align: right;
+	padding: 20px;
+}
